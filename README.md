@@ -1,0 +1,2 @@
+# NewEasyBot
+new repo
